@@ -9,5 +9,16 @@
             "svelte",
             "HonoJS"
         ]
+    },
+    {
+        "image": "1ffVLL2fBwkFCXKppO7J6Hf5sad-WWflC",
+        "name": "Manas Singh Makhija",
+        "section": "Cs Core J",
+        "college": "Medicaps University",
+        "skills": [
+            "C++",
+            "C",
+            "DS"
+        ]
     }
 ]
