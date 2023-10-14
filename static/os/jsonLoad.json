@@ -10,5 +10,11 @@
         "name":"john Doe",
         "section":"CS Core",
         "coleege":"Havard university"
+    },
+    {
+        "image":"1ffVLL2fBwkFCXKppO7J6Hf5sad-WWflC",
+        "name":"Manas Singh",
+        "section":"CS Core",
+        "coleege":"Medicaps university"
     }
 ]
